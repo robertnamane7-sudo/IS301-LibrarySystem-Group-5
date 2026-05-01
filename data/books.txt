@@ -1,0 +1,5 @@
+1001,Programming Fundamentals,John Doe,Technology,2015,10
+1002,Data Structures,Jane Smith,Technology,2018,8
+1003,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,8
+1004,Introduction to Algorithms,Thomas Cormen,Technology,2009,3
+1005,To Kill a Mockingbird,Harper Lee,Fiction,1960,5
