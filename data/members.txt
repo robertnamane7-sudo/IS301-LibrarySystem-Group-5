@@ -1,4 +1,0 @@
-1001,John Doe,johndoe@email.com,0000111
-1002,Jane Smith,janesmith@email.com,0000222
-1003,Bob Johnson,bobjohnson@email.com,0000333
-1004,Jasmine Lee,jasmine@email.com,0000444
