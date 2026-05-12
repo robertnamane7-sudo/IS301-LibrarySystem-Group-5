@@ -1,0 +1,23 @@
+1001,Programming Fundamentals,John Doe,Technology,2015,10
+1002,Data Structures and Algorithms,Jane Smith,Technology,2018,6
+1003,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,6
+1004,Introduction to Algorithms,Thomas Cormen,Technology,2009,3
+1005,To Kill a Mockingbird,Harper Lee,Fiction,1960,7
+1006,Clean Code,Robert C. Martin,Technology,2008,5
+1007,Pride and Prejudice,Jane Austen,Fiction,1813,4
+1008,The Pragmatic Programmer,David Thomas,Technology,1999,6
+1009,A Brief History of Time,Stephen Hawking,Science,1988,3
+1010,The Catcher in the Rye,J.D. Salinger,Fiction,1951,5
+1011,Digital Logic Design,Morris Mano,Technology,2012,7
+1012,Sapiens,Yuval Noah Harari,History,2011,8
+1013,Artificial Intelligence,Stuart Russell,Technology,2020,4
+1014,The Art of War,Sun Tzu,Philosophy,500,5
+1015,Computer Networks,Andrew Tanenbaum,Technology,2010,6
+1016,Dune,Frank Herbert,Science Fiction,1965,5
+1017,Operating System Concepts,Abraham Silberschatz,Technology,2018,4
+1018,The Hobbit,J.R.R. Tolkien,Fantasy,1937,7
+1019,Database Management Systems,Raghu Ramakrishnan,Technology,2002,3
+1020,Think and Grow Rich,Napoleon Hill,Self-Help,1937,4
+1021,Python for Beginners,Jenevy Liam,Technology,2023,7
+1022,The Alchemist,Paulo Coelho,Fiction,1988,5
+1024,The Lord of the Rings,J.R.R Tolkien,Fantasy,1954,4
