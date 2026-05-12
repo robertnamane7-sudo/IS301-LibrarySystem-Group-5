@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/ID240452/OneDrive/Desktop/IS301 StructuredProgramming/Library System-Group 5/IS301-LibrarySystem-Group-5",
+      "program": "c:/Users/ID240452/OneDrive/Desktop/IS301 StructuredProgramming/Library System-Group 5/IS301-LibrarySystem-Group-5/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
