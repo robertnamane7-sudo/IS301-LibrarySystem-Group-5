@@ -1,0 +1,63 @@
+================================================
+         LIBRARY INVENTORY REPORT
+================================================
+Total Books in System: 5
+Total Members        : 4
+Total Borrow Records : 1
+================================================
+
+BookID           : 1001
+Title            : Programming Fundamentals
+Author           : John Doe
+Genre            : Technology
+Year Published   : 2015
+Quantity         : 10
+Availability     : Available
+----------------------------
+BookID           : 1002
+Title            : Data Structures
+Author           : Jane Smith
+Genre            : Technology
+Year Published   : 2018
+Quantity         : 8
+Availability     : Available
+----------------------------
+BookID           : 1003
+Title            : The Great Gatsby
+Author           : F. Scott Fitzgerald
+Genre            : Fiction
+Year Published   : 1925
+Quantity         : 8
+Availability     : Available
+----------------------------
+BookID           : 1004
+Title            : Introduction to Algorithms
+Author           : Thomas Cormen
+Genre            : Technology
+Year Published   : 2009
+Quantity         : 3
+Availability     : Available
+----------------------------
+BookID           : 1005
+Title            : To Kill a Mockingbird
+Author           : Harper Lee
+Genre            : Fiction
+Year Published   : 1960
+Quantity         : 5
+Availability     : Available
+----------------------------
+
+================================================
+         BORROWING SUMMARY
+================================================
+Borrow ID        : 1
+Book             : Programming Fundamentals
+Member           : John Doe
+Borrow Date      : 2024-01-01
+Return Date      : 2024-01-15
+Status           : Returned
+----------------------------
+
+================================================
+             END OF REPORT
+================================================
